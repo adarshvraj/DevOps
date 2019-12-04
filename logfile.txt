@@ -1,3 +1,6 @@
 0000000
 addition line added
 junk char 220
+confilct file 
+resolved the merge conflict
+
